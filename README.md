@@ -23,10 +23,4 @@ Dashboard interactivo con indicadores de estados finacieros y KPIs generados a p
 - Excel VBA 💡  
 - Power BI 📊  
 - GitHub 💻
-
----
-
-## 📫 Contacto
-📧 **elvisjuniorm21@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/elvisjuniorm/)
-
+- 
