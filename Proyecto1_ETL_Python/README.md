@@ -22,6 +22,8 @@ Python, Pandas, OpenPyXL
 ## 📊 Resultado
 Archivo limpio: `Consolidado estado resultados.xlsx`  
 Listo para cargar en Power BI.
+<img width="1002" height="493" alt="image" src="https://github.com/user-attachments/assets/aa0bb62f-be86-4ae6-923c-34524b821f8d" />
+
 
 ## 📸 Capturas
 <img width="1202" height="678" alt="image" src="https://github.com/user-attachments/assets/0919bf2b-0420-490e-9bec-69e975259d8e" />
